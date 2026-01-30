@@ -60,10 +60,6 @@ nav a.active::after {
     background-color: #007acc;
 }
 
-nav a:hover {
-    text-decoration: underline;
-}
-
 
 
 section {
